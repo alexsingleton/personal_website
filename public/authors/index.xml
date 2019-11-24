@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Alex Singleton</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Alex Singleton</title>
+      <link>/authors/alex-singleton/</link>
+      <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/alex-singleton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a Professor of Geographic Information Science at the University of Liverpool, Deputy Director of the ESRC Consumer Data Research Centre (CDRC) and Director of the ESRC Data Analytics &amp;amp; Society CDT. In a general sense my research is concerned with how the complexities of individual behaviours, attitudes and contexts manifest spatially, and can be represented and understood though a framework of geographic data science.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
