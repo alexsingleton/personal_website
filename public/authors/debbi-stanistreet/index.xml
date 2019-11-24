@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debbi Stanistreet | Alex Singleton</title>
+    <link>/authors/debbi-stanistreet/</link>
+      <atom:link href="/authors/debbi-stanistreet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Debbi Stanistreet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Debbi Stanistreet</title>
+      <link>/authors/debbi-stanistreet/</link>
+    </image>
+    
+    <item>
+      <title>Predicting students&#39; academic performance based on school and socio-demographic characteristics</title>
+      <link>/publication/25/</link>
+      <pubDate>Thu, 27 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/25/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

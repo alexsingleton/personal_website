@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yunzhe Liu | Alex Singleton</title>
+    <link>/authors/yunzhe-liu/</link>
+      <atom:link href="/authors/yunzhe-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yunzhe Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Yunzhe Liu</title>
+      <link>/authors/yunzhe-liu/</link>
+    </image>
+    
+    <item>
+      <title>A Principal Component Analysis (PCA)-based framework for automated variable selection in geodemographic classification</title>
+      <link>/publication/46/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/46/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

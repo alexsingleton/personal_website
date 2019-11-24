@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rebecca Allen | Alex Singleton</title>
+    <link>/authors/rebecca-allen/</link>
+      <atom:link href="/authors/rebecca-allen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rebecca Allen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Nov 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Rebecca Allen</title>
+      <link>/authors/rebecca-allen/</link>
+    </image>
+    
+    <item>
+      <title>Estimating Secondary School Catchment Areas and the Spatial Equity of Access</title>
+      <link>/publication/14/</link>
+      <pubDate>Sun, 06 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

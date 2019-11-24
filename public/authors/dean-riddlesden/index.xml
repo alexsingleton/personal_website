@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dean Riddlesden | Alex Singleton</title>
+    <link>/authors/dean-riddlesden/</link>
+      <atom:link href="/authors/dean-riddlesden/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dean Riddlesden</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Dean Riddlesden</title>
+      <link>/authors/dean-riddlesden/</link>
+    </image>
+    
+    <item>
+      <title>Measuring the spatial vulnerability of retail centres to online consumption through a framework of e-resilience</title>
+      <link>/publication/37/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/37/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broadband speed equity: A new digital divide?</title>
+      <link>/publication/27/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey of the use of Geographic Information Systems in English Local Authority Impact Assessments</title>
+      <link>/publication/20/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

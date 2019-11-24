@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Darlene Snape | Alex Singleton</title>
+    <link>/authors/darlene-snape/</link>
+      <atom:link href="/authors/darlene-snape/index.xml" rel="self" type="application/rss+xml" />
+    <description>Darlene Snape</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Darlene Snape</title>
+      <link>/authors/darlene-snape/</link>
+    </image>
+    
+    <item>
+      <title>Experience of disadvantage: The influence of identity on engagement in working class students’ educational trajectories to an elite university</title>
+      <link>/publication/34/</link>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/34/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

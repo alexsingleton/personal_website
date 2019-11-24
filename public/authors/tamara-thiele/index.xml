@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tamara Thiele | Alex Singleton</title>
+    <link>/authors/tamara-thiele/</link>
+      <atom:link href="/authors/tamara-thiele/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tamara Thiele</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 04 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tamara Thiele</title>
+      <link>/authors/tamara-thiele/</link>
+    </image>
+    
+    <item>
+      <title>Exploring the use of mixed methods in research and evaluation of widening participation interventions: guidance for practitioners</title>
+      <link>/publication/47/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/47/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience of disadvantage: The influence of identity on engagement in working class students’ educational trajectories to an elite university</title>
+      <link>/publication/34/</link>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/34/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of students’ context in predicting academic performance at a medical school: a retrospective cohort study</title>
+      <link>/publication/33/</link>
+      <pubDate>Fri, 11 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/33/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

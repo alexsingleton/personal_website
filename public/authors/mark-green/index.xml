@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Green | Alex Singleton</title>
+    <link>/authors/mark-green/</link>
+      <atom:link href="/authors/mark-green/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark Green</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Mark Green</title>
+      <link>/authors/mark-green/</link>
+    </image>
+    
+    <item>
+      <title>Open data on health-related neighbourhood features in Great Britain.</title>
+      <link>/publication/45/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/45/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using machine learning to investigate self-medication purchasing in England via high street retailer loyalty card data</title>
+      <link>/publication/44/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/44/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

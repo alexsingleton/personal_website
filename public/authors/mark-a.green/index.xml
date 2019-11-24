@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark A.Green | Alex Singleton</title>
+    <link>/authors/mark-a.green/</link>
+      <atom:link href="/authors/mark-a.green/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark A.Green</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Mark A.Green</title>
+      <link>/authors/mark-a.green/</link>
+    </image>
+    
+    <item>
+      <title>Developing an openly accessible multi-dimensional small area index of ‘Access to Healthy Assets and Hazards’ for Great Britain, 2016</title>
+      <link>/publication/43/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/43/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

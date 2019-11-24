@@ -5,12 +5,84 @@
     <link>/authors/paul-longley/</link>
       <atom:link href="/authors/paul-longley/index.xml" rel="self" type="application/rss+xml" />
     <description>Paul Longley</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2010 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Paul Longley</title>
       <link>/authors/paul-longley/</link>
     </image>
+    
+    <item>
+      <title>Data infrastructure requirements for new geodemographic classifications: The example of London&#39;s workplace zones</title>
+      <link>/publication/48/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/48/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Classification of Multidimensional Open Data for Urban Morphology</title>
+      <link>/publication/38/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating the 2011 area classification for output areas (2011 OAC)</title>
+      <link>/publication/39/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/39/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The stability of geodemographic cluster assignments over an intercensal period</title>
+      <link>/publication/36/</link>
+      <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the spatial vulnerability of retail centres to online consumption through a framework of e-resilience</title>
+      <link>/publication/37/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/37/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Internal Structure of Greater London: A Comparison of National and Regional Geodemographic Models</title>
+      <link>/publication/31/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OACoder: Postcode Coding Tool</title>
+      <link>/publication/24/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Secondary School Catchment Areas and the Spatial Equity of Access</title>
+      <link>/publication/14/</link>
+      <pubDate>Sun, 06 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Participation in Higher Education: a Comparative Evaluation of the Performance of Geodemographic Classifications</title>
+      <link>/publication/17/</link>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/17/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Geodemographics of Educational Progression and their Implications for Widening Participation in Higher Education</title>
@@ -21,10 +93,34 @@
     </item>
     
     <item>
+      <title>Towards Real‐Time Geodemographics: Clustering Algorithm Performance for Large Multidimensional Spatial Databases</title>
+      <link>/publication/13/</link>
+      <pubDate>Mon, 21 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lost in Translation: Cross-Cultural Experiences in Teaching Geo-Genealogy</title>
       <link>/publication/10/</link>
       <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
       <guid>/publication/10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Surname Regions of Great Britain</title>
+      <link>/publication/12/</link>
+      <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid-enabling Geographically Weighted Regression: A Case Study of Participation in Higher Education in England</title>
+      <link>/publication/11/</link>
+      <pubDate>Sun, 17 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/11/</guid>
       <description></description>
     </item>
     

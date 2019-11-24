@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Comber | Alex Singleton</title>
+    <link>/authors/sam-comber/</link>
+      <atom:link href="/authors/sam-comber/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sam Comber</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Sam Comber</title>
+      <link>/authors/sam-comber/</link>
+    </image>
+    
+    <item>
+      <title>Building Hierarchies of Retail Centers Using Bayesian Multilevel Models</title>
+      <link>/publication/51/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/51/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meixu Chen | Alex Singleton</title>
+    <link>/authors/meixu-chen/</link>
+      <atom:link href="/authors/meixu-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Meixu Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Meixu Chen</title>
+      <link>/authors/meixu-chen/</link>
+    </image>
+    
+    <item>
+      <title>Understanding the dynamics of urban areas of interest through volunteered geographic information</title>
+      <link>/publication/42/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/42/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

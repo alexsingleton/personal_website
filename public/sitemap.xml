@@ -3,8 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/alex-singleton/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/51/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dani-arribas-bel/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/guanpeng-dong/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/les-dolega/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sam-comber/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/48/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/paul-longley/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,18 +88,118 @@
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc>/authors/alec-davies/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/authors/benjamin-barr/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/konstantinos-daras/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mark-green/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/45/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/46/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yunzhe-liu/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/50/</loc>
+    <lastmod>2019-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jonathan-reynolds/</loc>
+    <lastmod>2019-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/michalis-pavlis/</loc>
+    <lastmod>2019-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/49/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/meixu-chen/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/42/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/44/</loc>
+    <lastmod>2018-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-pope/</loc>
+    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/debbie-stanistreet/</loc>
+    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/47/</loc>
+    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tamara-thiele/</loc>
+    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ben-barr/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/43/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mark-a.green/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -40,6 +210,51 @@
   <url>
     <loc>/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/41/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/michail-pavlis/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/darlene-snape/</loc>
+    <lastmod>2016-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/34/</loc>
+    <lastmod>2016-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/38/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/alexiou-alexandros/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/andrew-bates/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/chris-gale/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/39/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -68,11 +283,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
@@ -90,6 +300,56 @@
   <url>
     <loc>/categories/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/36/</loc>
+    <lastmod>2016-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/33/</loc>
+    <lastmod>2016-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/chris-brunsdon/</loc>
+    <lastmod>2016-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/35/</loc>
+    <lastmod>2016-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/seth-spielman/</loc>
+    <lastmod>2016-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dean-riddlesden/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/37/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/40/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/30/</loc>
+    <lastmod>2015-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/31/</loc>
+    <lastmod>2015-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -118,38 +378,198 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+    <loc>/publication/32/</loc>
+    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/alex-singleton/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+    <loc>/authors/catherine-souch/</loc>
+    <lastmod>2014-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/paul-longley/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+    <loc>/authors/chris-keylock/</loc>
+    <lastmod>2014-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+    <loc>/authors/claire-jarvis/</loc>
+    <lastmod>2014-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+    <loc>/publication/28/</loc>
+    <lastmod>2014-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+    <loc>/authors/richard-harris/</loc>
+    <lastmod>2014-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/scott-orford/</loc>
+    <lastmod>2014-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tate-nicholas/</loc>
+    <lastmod>2014-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/29/</loc>
+    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nick-bearman/</loc>
+    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/debbi-stanistreet/</loc>
+    <lastmod>2014-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/25/</loc>
+    <lastmod>2014-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/thiele-tamara/</loc>
+    <lastmod>2014-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/22/</loc>
+    <lastmod>2014-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/27/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/26/</loc>
+    <lastmod>2014-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/21/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/diane-frost/</loc>
+    <lastmod>2013-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/muhammad-adnan/</loc>
+    <lastmod>2013-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/24/</loc>
+    <lastmod>2013-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/23/</loc>
+    <lastmod>2013-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/richard-phillips/</loc>
+    <lastmod>2013-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/19/</loc>
+    <lastmod>2012-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/18/</loc>
+    <lastmod>2012-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/20/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/thomas-fischer/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-lewis/</loc>
+    <lastmod>2011-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/14/</loc>
+    <lastmod>2011-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/15/</loc>
+    <lastmod>2011-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/oliver-obrien/</loc>
+    <lastmod>2011-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rebecca-allen/</loc>
+    <lastmod>2011-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/david-ashby/</loc>
+    <lastmod>2011-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/16/</loc>
+    <lastmod>2011-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-de-smith/</loc>
+    <lastmod>2011-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pablo-mateos/</loc>
+    <lastmod>2011-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/17/</loc>
+    <lastmod>2011-06-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/9/</loc>
     <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/13/</loc>
+    <lastmod>2010-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/james-cheshire/</loc>
+    <lastmod>2010-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -163,18 +583,28 @@
   </url>
   
   <url>
+    <loc>/publication/12/</loc>
+    <lastmod>2010-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/tomoki-nakaya/</loc>
     <lastmod>2010-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/5/</loc>
-    <lastmod>2009-09-15T00:00:00+00:00</lastmod>
+    <loc>/authors/daniel-grose/</loc>
+    <lastmod>2010-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/pablo-mateos/</loc>
-    <lastmod>2009-08-24T00:00:00+00:00</lastmod>
+    <loc>/publication/11/</loc>
+    <lastmod>2010-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/5/</loc>
+    <lastmod>2009-09-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>

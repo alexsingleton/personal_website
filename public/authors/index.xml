@@ -5,12 +5,124 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Alex Singleton</title>
+      <link>/authors/alex-singleton/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/alex-singleton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dani Arribas-Bel</title>
+      <link>/authors/dani-arribas-bel/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/dani-arribas-bel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guanpeng Dong</title>
+      <link>/authors/guanpeng-dong/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/guanpeng-dong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Les Dolega</title>
+      <link>/authors/les-dolega/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/les-dolega/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sam Comber</title>
+      <link>/authors/sam-comber/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/sam-comber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Longley</title>
+      <link>/authors/paul-longley/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/paul-longley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alec Davies</title>
+      <link>/authors/alec-davies/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/alec-davies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin Barr</title>
+      <link>/authors/benjamin-barr/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/benjamin-barr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Konstantinos Daras</title>
+      <link>/authors/konstantinos-daras/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/konstantinos-daras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Green</title>
+      <link>/authors/mark-green/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/mark-green/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yunzhe Liu</title>
+      <link>/authors/yunzhe-liu/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yunzhe-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Reynolds</title>
+      <link>/authors/jonathan-reynolds/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jonathan-reynolds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michalis Pavlis</title>
+      <link>/authors/michalis-pavlis/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/michalis-pavlis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meixu Chen</title>
+      <link>/authors/meixu-chen/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/meixu-chen/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -22,18 +134,266 @@
     </item>
     
     <item>
-      <title>Alex Singleton</title>
-      <link>/authors/alex-singleton/</link>
-      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>/authors/alex-singleton/</guid>
+      <title>Daniel Pope</title>
+      <link>/authors/daniel-pope/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-pope/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Paul Longley</title>
-      <link>/authors/paul-longley/</link>
-      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>/authors/paul-longley/</guid>
+      <title>Debbie Stanistreet</title>
+      <link>/authors/debbie-stanistreet/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/debbie-stanistreet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tamara Thiele</title>
+      <link>/authors/tamara-thiele/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/tamara-thiele/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ben Barr</title>
+      <link>/authors/ben-barr/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/ben-barr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark A.Green</title>
+      <link>/authors/mark-a.green/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/mark-a.green/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michail Pavlis</title>
+      <link>/authors/michail-pavlis/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/michail-pavlis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Darlene Snape</title>
+      <link>/authors/darlene-snape/</link>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/darlene-snape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexiou Alexandros</title>
+      <link>/authors/alexiou-alexandros/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/alexiou-alexandros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrew Bates</title>
+      <link>/authors/andrew-bates/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/andrew-bates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Gale</title>
+      <link>/authors/chris-gale/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/chris-gale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Brunsdon</title>
+      <link>/authors/chris-brunsdon/</link>
+      <pubDate>Fri, 05 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/chris-brunsdon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seth Spielman</title>
+      <link>/authors/seth-spielman/</link>
+      <pubDate>Fri, 05 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/seth-spielman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dean Riddlesden</title>
+      <link>/authors/dean-riddlesden/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/dean-riddlesden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catherine Souch</title>
+      <link>/authors/catherine-souch/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/catherine-souch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Keylock</title>
+      <link>/authors/chris-keylock/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/chris-keylock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claire Jarvis</title>
+      <link>/authors/claire-jarvis/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/claire-jarvis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard Harris</title>
+      <link>/authors/richard-harris/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/richard-harris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scott Orford</title>
+      <link>/authors/scott-orford/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/scott-orford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tate Nicholas</title>
+      <link>/authors/tate-nicholas/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/tate-nicholas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nick Bearman</title>
+      <link>/authors/nick-bearman/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/nick-bearman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debbi Stanistreet</title>
+      <link>/authors/debbi-stanistreet/</link>
+      <pubDate>Thu, 27 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/debbi-stanistreet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thiele, Tamara</title>
+      <link>/authors/thiele-tamara/</link>
+      <pubDate>Thu, 27 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/thiele-tamara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diane Frost</title>
+      <link>/authors/diane-frost/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/diane-frost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muhammad Adnan</title>
+      <link>/authors/muhammad-adnan/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/muhammad-adnan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard Phillips</title>
+      <link>/authors/richard-phillips/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/richard-phillips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Fischer</title>
+      <link>/authors/thomas-fischer/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/thomas-fischer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Lewis</title>
+      <link>/authors/daniel-lewis/</link>
+      <pubDate>Sun, 06 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-lewis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oliver O’Brien</title>
+      <link>/authors/oliver-obrien/</link>
+      <pubDate>Sun, 06 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>/authors/oliver-obrien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebecca Allen</title>
+      <link>/authors/rebecca-allen/</link>
+      <pubDate>Sun, 06 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>/authors/rebecca-allen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Ashby</title>
+      <link>/authors/david-ashby/</link>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>/authors/david-ashby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael de Smith</title>
+      <link>/authors/michael-de-smith/</link>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-de-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pablo Mateos</title>
+      <link>/authors/pablo-mateos/</link>
+      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>/authors/pablo-mateos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Cheshire</title>
+      <link>/authors/james-cheshire/</link>
+      <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/james-cheshire/</guid>
       <description></description>
     </item>
     
@@ -54,10 +414,10 @@
     </item>
     
     <item>
-      <title>Pablo Mateos</title>
-      <link>/authors/pablo-mateos/</link>
-      <pubDate>Mon, 24 Aug 2009 00:00:00 +0000</pubDate>
-      <guid>/authors/pablo-mateos/</guid>
+      <title>Daniel Grose</title>
+      <link>/authors/daniel-grose/</link>
+      <pubDate>Sun, 17 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-grose/</guid>
       <description></description>
     </item>
     

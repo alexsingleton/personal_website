@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scott Orford | Alex Singleton</title>
+    <link>/authors/scott-orford/</link>
+      <atom:link href="/authors/scott-orford/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scott Orford</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Dec 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Scott Orford</title>
+      <link>/authors/scott-orford/</link>
+    </image>
+    
+    <item>
+      <title>Geographers Count: A Report on Quantitative Methods in Geography</title>
+      <link>/publication/28/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/28/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
