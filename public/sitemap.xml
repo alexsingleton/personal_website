@@ -3,48 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/alex-singleton/</loc>
-    <lastmod>2019-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
-    <lastmod>2019-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2019-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/webmapping2.0/</loc>
-    <lastmod>2019-11-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -59,6 +19,11 @@
   
   <url>
     <loc>/authors/admin/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -100,6 +65,11 @@
   <url>
     <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -145,6 +115,96 @@
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2009-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/alex-singleton/</loc>
+    <lastmod>2009-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/5/</loc>
+    <lastmod>2009-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2009-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2009-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2009-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pablo-mateos/</loc>
+    <lastmod>2009-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/paul-longley/</loc>
+    <lastmod>2009-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/6/</loc>
+    <lastmod>2009-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/4/</loc>
+    <lastmod>2009-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/3/</loc>
+    <lastmod>2009-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/7/</loc>
+    <lastmod>2009-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/chris-parker/</loc>
+    <lastmod>2008-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/muki-haklay/</loc>
+    <lastmod>2008-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/1/</loc>
+    <lastmod>2008-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2/</loc>
+    <lastmod>2008-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/maurizio-gibin/</loc>
+    <lastmod>2008-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/richard-milton/</loc>
+    <lastmod>2008-04-24T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

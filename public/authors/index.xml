@@ -5,20 +5,12 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
-    
-    <item>
-      <title>Alex Singleton</title>
-      <link>/authors/alex-singleton/</link>
-      <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/alex-singleton/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title></title>
@@ -27,6 +19,62 @@
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a Professor of Geographic Information Science at the University of Liverpool, Deputy Director of the ESRC Consumer Data Research Centre (CDRC) and Director of the ESRC Data Analytics &amp;amp; Society CDT. In a general sense my research is concerned with how the complexities of individual behaviours, attitudes and contexts manifest spatially, and can be represented and understood though a framework of geographic data science.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Alex Singleton</title>
+      <link>/authors/alex-singleton/</link>
+      <pubDate>Tue, 15 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/alex-singleton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pablo Mateos</title>
+      <link>/authors/pablo-mateos/</link>
+      <pubDate>Mon, 24 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/pablo-mateos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Longley</title>
+      <link>/authors/paul-longley/</link>
+      <pubDate>Mon, 24 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/paul-longley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Parker</title>
+      <link>/authors/chris-parker/</link>
+      <pubDate>Wed, 19 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>/authors/chris-parker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muki Haklay</title>
+      <link>/authors/muki-haklay/</link>
+      <pubDate>Wed, 19 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>/authors/muki-haklay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maurizio Gibin</title>
+      <link>/authors/maurizio-gibin/</link>
+      <pubDate>Thu, 24 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>/authors/maurizio-gibin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard Milton</title>
+      <link>/authors/richard-milton/</link>
+      <pubDate>Thu, 24 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>/authors/richard-milton/</guid>
+      <description></description>
     </item>
     
   </channel>

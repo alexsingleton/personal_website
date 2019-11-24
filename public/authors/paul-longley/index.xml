@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Longley | Alex Singleton</title>
+    <link>/authors/paul-longley/</link>
+      <atom:link href="/authors/paul-longley/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul Longley</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Aug 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Paul Longley</title>
+      <link>/authors/paul-longley/</link>
+    </image>
+    
+    <item>
+      <title>Uncertainty in the Analysis of Ethnicity Classifications: Issues of Extent and Aggregation of Ethnic Groups</title>
+      <link>/publication/6/</link>
+      <pubDate>Mon, 24 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating Open Source Geodemographics - Refining a National Classification of Census Output Areas for Applications in Higher Education</title>
+      <link>/publication/4/</link>
+      <pubDate>Wed, 05 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geodemographics, visualisation, and social networks in applied geography</title>
+      <link>/publication/3/</link>
+      <pubDate>Fri, 03 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking Social Deprivation and Digital Exclusion in England</title>
+      <link>/publication/7/</link>
+      <pubDate>Wed, 06 May 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Exploratory Cartographic Visualisation of London through the Google Maps API</title>
+      <link>/publication/2/</link>
+      <pubDate>Thu, 24 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
