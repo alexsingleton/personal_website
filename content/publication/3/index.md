@@ -6,7 +6,7 @@ authors:
 
 date: "2009-07-03"
 doi: "10.1016/j.apgeog.2008.10.006"
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: ""

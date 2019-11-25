@@ -9,7 +9,7 @@ authors:
 
 date: "2008-04-24"
 doi: "10.1007/s12061-008-9005-5"
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: ""
