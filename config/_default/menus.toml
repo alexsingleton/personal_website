@@ -15,7 +15,7 @@
 
 [[main]]
   name = "CV"
-  url = "files/cv.pdf"
+  url = "pdf/cv.pdf"
   weight = 70
   
 [[main]]
